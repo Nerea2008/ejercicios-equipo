@@ -10,3 +10,4 @@
 NOMBRE = "Jen Sen"   # cómo se llama tu luchador (puedes inventarte un apodo)
 VIDA = 9999999999999999              # cuántos golpes aguanta (máximo 30)
 ATAQUE = 9999999999999999             # lo fuerte que pega (máximo 8)
+GRITO = "AUUU, AUUU, AUUU"
