@@ -10,3 +10,4 @@
 NOMBRE = "Cookie"   # cómo se llama tu luchador (puedes inventarte un apodo)
 VIDA = 30              # cuántos golpes aguanta (máximo 30)
 ATAQUE = 8             # lo fuerte que pega (máximo 8)
+GRITO = "PREPARAD LAS HOGUERAS, COMIENZAN LAS FALLAS"
